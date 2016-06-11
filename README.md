@@ -1,6 +1,5 @@
 # CumWatch-Production-Runner
-Concat, Uglify, Minify, Watch Grunt Production Runner
-Yes the name is horendous. But it fits. 
+Concat, Uglify, Minify, Watch Grunt Production Runner (Yes the name is horendous. But it fits.) 
 
 ## What is this for?
 
