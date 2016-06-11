@@ -1,5 +1,5 @@
 {
-  "name": "CumWatch Production Runner",
+  "name": "CumWatch-Production-Runner",
   "title": "Concat, Uglify, Minify, Watch for css js",
   "version": "1.0.0",
   "devDependencies": {
